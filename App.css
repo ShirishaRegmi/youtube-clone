@@ -1,0 +1,16 @@
+#playVideo
+{
+    float: left;
+    background-color: yellow;
+    width: 65%;
+    margin-top: 8px;
+
+}
+#listVideos
+{
+    float: right;
+    background-color: pink;
+    width: 35%;
+    margin-top: 8px;
+
+}
